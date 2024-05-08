@@ -7,9 +7,6 @@ Notes Keeper is a web-based application that allows users to create, update, del
 # Why is Notes Keeper Useful?
 This application provides an easy way to keep track of important information, tasks, or any other personal notes. It serves as a convenient tool for users looking to organize their thoughts and information in one accessible, centralized place.
 
-# User interface
-The user can add, edit, and delete notes. Notes appear in random colors ranging from blue, pink, orange, green, and yellow. 
-
 # Frontend
 The frontend of Notes Keeper is developed using React.js. It provides a user-friendly interface for managing notes. Here's what happens on the frontend:
 
