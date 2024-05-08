@@ -49,10 +49,6 @@ Here are some instructions to set up Notes Keeper locally:
 Install Node.js and npm
 Install MongoDB or have a MongoDB Atlas account
 
-## Clone the repository:
-git clone [repository-url]
-cd notes-keeper
-
 ## In Backend Directory:
 
 ### Set up environment variables:
@@ -65,18 +61,12 @@ npm install
 ### Run Node.js Server:
 npm start
 
-## In Frontent Directory:
+## In Frontend Directory:
 
 ### Install dependencies:
 npm install
 
 ### Run React Server
 npm run start
-
-## Run the application:
-Open a new terminal and start the frontend:
-cd client  # Navigate into the client directory if separated
-npm start
-
 
 
