@@ -53,15 +53,25 @@ Install MongoDB or have a MongoDB Atlas account
 git clone [repository-url]
 cd notes-keeper
 
-## Install dependencies:
-npm install
+## In Backend Directory:
 
-## Set up environment variables:
-Create a .env file in the root directory and add the following:
+### Set up environment variables:
+Create a .env file in the backend directory and add the following:
 MONGO_DB_URI=your_mongodb_uri
 
-## Start the server:
+### Install dependencies:
+npm install
+
+### Run Node.js Server:
 npm start
+
+## In Frontent Directory:
+
+### Install dependencies:
+npm install
+
+### Run React Server
+npm run start
 
 ## Run the application:
 Open a new terminal and start the frontend:
