@@ -34,6 +34,17 @@ Includes middleware for error handling and managing cross-origin resource sharin
 # Integration
 The integration between the frontend and backend is critical for the seamless operation of Notes Keeper. The frontend makes API calls to the backend to fetch and manipulate data, which is then reflected in the frontend application in real-time.
 
+## Style Guide
+
+## Framework
+The application utilizes Tailwind CSS for styling. It helps maintain a consistent style across all components with utility classes that can be applied directly in the component markup. 
+
+## Note Style
+Each note title is assigned a random color from a set palette to visually distinguish each note. This random coloration is achieved through a CSS class that rotates colors based on the note's index, creating a vibrant and dynamic appearance. Additionally, each note comes with intuitive icons for editing and deleting. These icons are styled to be clear and accessible but do not overpower the note's content.
+
+## Page Style
+The application sports a soft pastel background, promoting a calm and inviting atmosphere. Notes are organized in a grid layout, allowing users to easily navigate and manage their entries.
+
 # Getting Started
 Here are some instructions to set up Notes Keeper locally:
 
