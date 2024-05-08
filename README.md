@@ -1,6 +1,3 @@
-# Notes-Keeper-App
-A notes keeper application that allows user to add, edit, and delete notes. 
-
 # What is Notes Keeper?
 Notes Keeper is a web-based application that allows users to create, update, delete, and browse personal notes. It is built using the MERN stack (MongoDB, Express.js, React.js, Node.js), offering a responsive and intuitive user interface to manage a digital collection of notes.
 
