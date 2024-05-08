@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Note from './components/note';
-import { FaPlus, FaPen, FaTrash } from 'react-icons/fa';
+import { FaPlus } from 'react-icons/fa';
 import './style.css';  
 
 const App = () => {
@@ -102,8 +102,6 @@ const App = () => {
               content={note.content}
               deleteNote={() => deleteNote(note._id)}
               updateNote={updateNote}
-              FaPen={FaPen}
-              FaTrash={FaTrash}s
             />
             </div>
           ))
