@@ -34,7 +34,7 @@ Includes middleware for error handling and managing cross-origin resource sharin
 # Integration
 The integration between the frontend and backend is critical for the seamless operation of Notes Keeper. The frontend makes API calls to the backend to fetch and manipulate data, which is then reflected in the frontend application in real-time.
 
-## Style Guide
+# Style Guide
 
 ## Framework
 The application utilizes Tailwind CSS for styling. It helps maintain a consistent style across all components with utility classes that can be applied directly in the component markup. 
